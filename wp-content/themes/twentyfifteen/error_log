@@ -1,0 +1,3 @@
+[04-Feb-2019 07:49:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/iktutor/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[12-Feb-2019 23:10:19 UTC] PHP Fatal error:  Call to undefined function the_id() in /home/iktutor/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[15-Feb-2019 15:34:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/iktutor/public_html/wp-content/themes/twentyfifteen/index.php on line 17

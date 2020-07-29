@@ -1,0 +1,3 @@
+Hiện tại còn file 40 chứa 1 số lỗi cần fix và tính năng video của file 32 cần hoàn thành.
+Anh có thể cho các bạn làm file 40 trước để làm quen, sau khi ổn có thể nghiên cứu tiếp vấn đề video ạ
+

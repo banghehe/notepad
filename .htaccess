@@ -1,0 +1,11 @@
+Header set Access-Control-Allow-Origin "*"
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /3i/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /3i/index.php [L]
+</IfModule>
